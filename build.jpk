@@ -1,0 +1,3 @@
+dependencies=test-manager
+maintype-test=jpkg.ngram.NGramTest
+output-jar=bin/ngram-${branch}.jar
